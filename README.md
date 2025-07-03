@@ -1,4 +1,4 @@
 # demo
 my first repository
 <br>
-Author - Gopal sahu
+Author - Gopal(developer)
